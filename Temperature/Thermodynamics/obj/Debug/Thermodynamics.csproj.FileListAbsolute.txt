@@ -1,0 +1,14 @@
+C:\Users\devsu\OneDrive\Documents\GitHubRepos\Visualizer2\Visualizer\Thermodynamics\bin\Debug\Thermodynamics.dll
+C:\Users\devsu\OneDrive\Documents\GitHubRepos\Visualizer2\Visualizer\Thermodynamics\bin\Debug\Thermodynamics.pdb
+C:\Users\devsu\OneDrive\Documents\GitHubRepos\Visualizer2\Visualizer\Thermodynamics\bin\Debug\Utility.dll
+C:\Users\devsu\OneDrive\Documents\GitHubRepos\Visualizer2\Visualizer\Thermodynamics\bin\Debug\Utility.pdb
+C:\Users\devsu\OneDrive\Documents\GitHubRepos\Visualizer2\Visualizer\Thermodynamics\obj\Debug\Thermodynamics.csprojResolveAssemblyReference.cache
+C:\Users\devsu\OneDrive\Documents\GitHubRepos\Visualizer2\Visualizer\Thermodynamics\obj\Debug\Thermodynamics.dll
+C:\Users\devsu\OneDrive\Documents\GitHubRepos\Visualizer2\Visualizer\Thermodynamics\obj\Debug\Thermodynamics.pdb
+C:\Users\katya\Katya\School\IMSA\11th Grade\Second Semester\Computational Science\Temp New\Thermodynamics\obj\Debug\Thermodynamics.csprojResolveAssemblyReference.cache
+C:\Users\katya\Katya\School\IMSA\11th Grade\Second Semester\Computational Science\Temp New\Thermodynamics\obj\Debug\Thermodynamics.dll
+C:\Users\katya\Katya\School\IMSA\11th Grade\Second Semester\Computational Science\Temp New\Thermodynamics\obj\Debug\Thermodynamics.pdb
+C:\Users\katya\Katya\School\IMSA\11th Grade\Second Semester\Computational Science\Temp New\Thermodynamics\bin\Debug\Thermodynamics.dll
+C:\Users\katya\Katya\School\IMSA\11th Grade\Second Semester\Computational Science\Temp New\Thermodynamics\bin\Debug\Thermodynamics.pdb
+C:\Users\katya\Katya\School\IMSA\11th Grade\Second Semester\Computational Science\Temp New\Thermodynamics\bin\Debug\Utility.dll
+C:\Users\katya\Katya\School\IMSA\11th Grade\Second Semester\Computational Science\Temp New\Thermodynamics\bin\Debug\Utility.pdb

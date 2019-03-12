@@ -1,0 +1,33 @@
+StreamWriter file = File.CreateText(@"C:\Folder\name.txt");
+file.WriteLine(" ");
+file.close();
+
+Always use private
+Methods capitalized
+
+Never use == for floating point (use tolerance)
+
+for(double t = 0; t != 100; t +=.1) <- BAD
+do t<= 100 instead
+
+ctrl k - auto-format
+ctrl c - commenting out
+
+const for constant
+Even if only use once, put in constant variable
+
+|v|=sqrt(vx^2+vy^2)
+vx = |v|cos(theta)
+vy=|v|sin(theta)
+
+private double x;
+
+public double x
+{
+   get { return x; }
+   set { x = value; }
+}
+
+ALL THAT CAN BE REPLACED WITH:
+
+public double x { get; set; }

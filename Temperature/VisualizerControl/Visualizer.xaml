@@ -1,0 +1,118 @@
+﻿<Window x:Class="VisualizerControl.Visualizer"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:MyNamespace="clr-namespace:VisualizerControl"
+        xmlns:local="clr-namespace:VisualizerControl"
+        mc:Ignorable="d"
+        Title="Visualizer" Background="Black" WindowState="Maximized">
+
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="46" />
+            <RowDefinition Height="*"/>
+        </Grid.RowDefinitions>
+
+        <Grid Background="Gray" Grid.Row="0">
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="50"/>
+                <ColumnDefinition Width="50"/>
+                <ColumnDefinition Width="*"/>
+            </Grid.ColumnDefinitions>
+            <Button Name="Start_Button" Click="Start_Button_Click" Grid.Column="0">
+                Start!
+            </Button>
+            <Button Name="Stop_Button" Click="Stop_Button_Click" Grid.Column="1" >
+                Stop!
+            </Button>
+            <StackPanel Grid.Column="2" Orientation="Horizontal">
+                <DockPanel VerticalAlignment="Center" Margin="10">
+                    <Label DockPanel.Dock="Left" FontWeight="Bold">Camera X</Label>
+                    <TextBox Text="{Binding ElementName=CamX, Path=Value, UpdateSourceTrigger=PropertyChanged}" DockPanel.Dock="Right" TextAlignment="Right" Width="30" />
+                    <Slider Name="CamX" ValueChanged="Camera_ValueChanged" Minimum="-100" Maximum="100" TickPlacement="BottomRight" TickFrequency="50" Width="50">
+                    </Slider>
+                </DockPanel>
+                <DockPanel VerticalAlignment="Center" Margin="10">
+                    <Label DockPanel.Dock="Left" FontWeight="Bold">Camera Y</Label>
+                    <TextBox Text="{Binding ElementName=CamY, Path=Value, UpdateSourceTrigger=PropertyChanged}" DockPanel.Dock="Right" TextAlignment="Right" Width="30" />
+                    <Slider Name="CamY" ValueChanged="Camera_ValueChanged" Minimum="-100" Maximum="100" TickPlacement="BottomRight" TickFrequency="50" Width="50">
+                    </Slider>
+                </DockPanel>
+                <DockPanel VerticalAlignment="Center" Margin="10">
+                    <Label DockPanel.Dock="Left" FontWeight="Bold">Camera Z</Label>
+                    <TextBox Text="{Binding ElementName=CamZ, Path=Value, UpdateSourceTrigger=PropertyChanged}" DockPanel.Dock="Right" TextAlignment="Right" Width="30" />
+                    <Slider Name="CamZ" ValueChanged="Camera_ValueChanged" Minimum="-100" Maximum="100" TickPlacement="BottomRight" TickFrequency="50" Width="50">
+                    </Slider>
+                </DockPanel>
+                <TextBlock Text="Time Increment (s)" VerticalAlignment="Center" />
+                <TextBox Name="TimeIncrementSlider" TextChanged="TimeIncrement_TextChanged" Width="30" Margin="10" />
+
+                <TextBlock Text="Graph Max Points" VerticalAlignment="Center" HorizontalAlignment="Right" />
+                <TextBox Name="MaxPointsSlider" TextChanged="MaxPointsSlider_TextChanged" TextAlignment="Right" Width="50" Margin="10" Text="1000"/>
+
+                <TextBlock Text="Auto Camera" VerticalAlignment="Center" HorizontalAlignment="Right" />
+                <CheckBox Name="AutoCameraCheck" VerticalAlignment="Center" Margin="10" Checked="AutoCameraCheck_Checked" IsChecked="False"/>
+
+                <TextBlock Text="Show3D" VerticalAlignment="Center" HorizontalAlignment="Right" />
+                <CheckBox Name="Show3DCheck" VerticalAlignment="Center" Margin="10" IsChecked="True"/>
+
+                <TextBlock Text="Trace" VerticalAlignment="Center" />
+                <CheckBox Name="TraceCheck" VerticalAlignment="Center" Margin="10" IsChecked="False"/>
+
+                <Button Name="Save_Button" Width="50" Click="Save_Button_Click">Save</Button>
+            </StackPanel>
+
+        </Grid>
+
+        <Grid Margin="0,46,0,0" Grid.RowSpan="2" Name="ViewportGrid">
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="7*" />
+                <ColumnDefinition Width="3*" />
+            </Grid.ColumnDefinitions>
+            <!-- Viewport3D is the rendering surface. -->
+            <Viewport3D Name="myViewport" Grid.Row="1" MouseLeftButtonDown="myViewport_MouseLeftButtonDown"
+                        MouseLeftButtonUp="myViewport_MouseLeftButtonUp"
+                        MouseMove="myViewport_MouseMove">
+
+                <!-- Add a camera. -->
+                <Viewport3D.Camera>
+                    <PerspectiveCamera x:Name="Camera"
+						LookDirection="0 -10 -10" 
+						UpDirection="0 -1 0" 
+						Position="5 10 10" 
+						FieldOfView="70" />
+                </Viewport3D.Camera>
+
+                <!-- Add models. -->
+                <Viewport3D.Children>
+
+                    <ModelVisual3D x:Name="ModelVisual_1">
+                        <ModelVisual3D.Content>
+
+                            <Model3DGroup x:Name="Group">
+                                <Model3DGroup.Children>
+
+                                    <DirectionalLight Color="#FFFFFFFF" Direction="-1 -1 -1" />
+                                    <DirectionalLight Color="#FFFFFFFF" Direction="1 1 1" />
+                                </Model3DGroup.Children>
+                            </Model3DGroup>
+
+                        </ModelVisual3D.Content>
+
+                    </ModelVisual3D>
+
+                </Viewport3D.Children>
+
+            </Viewport3D>
+
+
+            <Grid Grid.Column="1" Grid.Row="1" Background="White" Name="GraphPanel" VerticalAlignment="Top">
+            </Grid>
+        </Grid>
+    </Grid>
+
+
+</Window>
+
+    

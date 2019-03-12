@@ -1,0 +1,47 @@
+C:\Users\devsu\OneDrive\Documents\GitHubRepos\Visualizer2\Visualizer\Driver\bin\Debug\Driver.exe.config
+C:\Users\devsu\OneDrive\Documents\GitHubRepos\Visualizer2\Visualizer\Driver\bin\Debug\Driver.exe
+C:\Users\devsu\OneDrive\Documents\GitHubRepos\Visualizer2\Visualizer\Driver\bin\Debug\Driver.pdb
+C:\Users\devsu\OneDrive\Documents\GitHubRepos\Visualizer2\Visualizer\Driver\bin\Debug\GraphControl.dll
+C:\Users\devsu\OneDrive\Documents\GitHubRepos\Visualizer2\Visualizer\Driver\bin\Debug\VisualizerControl.dll
+C:\Users\devsu\OneDrive\Documents\GitHubRepos\Visualizer2\Visualizer\Driver\bin\Debug\GraphControl.pdb
+C:\Users\devsu\OneDrive\Documents\GitHubRepos\Visualizer2\Visualizer\Driver\bin\Debug\VisualizerControl.pdb
+C:\Users\devsu\OneDrive\Documents\GitHubRepos\Visualizer2\Visualizer\Driver\obj\Debug\Driver.csprojResolveAssemblyReference.cache
+C:\Users\devsu\OneDrive\Documents\GitHubRepos\Visualizer2\Visualizer\Driver\obj\Debug\MainWindow.g.cs
+C:\Users\devsu\OneDrive\Documents\GitHubRepos\Visualizer2\Visualizer\Driver\obj\Debug\App.g.cs
+C:\Users\devsu\OneDrive\Documents\GitHubRepos\Visualizer2\Visualizer\Driver\obj\Debug\Driver_MarkupCompile.cache
+C:\Users\devsu\OneDrive\Documents\GitHubRepos\Visualizer2\Visualizer\Driver\obj\Debug\Driver_MarkupCompile.lref
+C:\Users\devsu\OneDrive\Documents\GitHubRepos\Visualizer2\Visualizer\Driver\obj\Debug\MainWindow.baml
+C:\Users\devsu\OneDrive\Documents\GitHubRepos\Visualizer2\Visualizer\Driver\obj\Debug\Driver.g.resources
+C:\Users\devsu\OneDrive\Documents\GitHubRepos\Visualizer2\Visualizer\Driver\obj\Debug\Driver.Properties.Resources.resources
+C:\Users\devsu\OneDrive\Documents\GitHubRepos\Visualizer2\Visualizer\Driver\obj\Debug\Driver.csproj.GenerateResource.Cache
+C:\Users\devsu\OneDrive\Documents\GitHubRepos\Visualizer2\Visualizer\Driver\obj\Debug\Driver.exe
+C:\Users\devsu\OneDrive\Documents\GitHubRepos\Visualizer2\Visualizer\Driver\obj\Debug\Driver.pdb
+C:\Users\devsu\OneDrive\Documents\GitHubRepos\Visualizer2\Visualizer\Driver\bin\Debug\Thermodynamics.dll
+C:\Users\devsu\OneDrive\Documents\GitHubRepos\Visualizer2\Visualizer\Driver\bin\Debug\Utility.dll
+C:\Users\devsu\OneDrive\Documents\GitHubRepos\Visualizer2\Visualizer\Driver\bin\Debug\Thermodynamics.pdb
+C:\Users\devsu\OneDrive\Documents\GitHubRepos\Visualizer2\Visualizer\Driver\bin\Debug\Utility.pdb
+C:\Users\katya\Katya\School\IMSA\11th Grade\Second Semester\Computational Science\Temp New\Driver\bin\Debug\Driver.exe.config
+C:\Users\katya\Katya\School\IMSA\11th Grade\Second Semester\Computational Science\Temp New\Driver\obj\Debug\Driver.exe
+C:\Users\katya\Katya\School\IMSA\11th Grade\Second Semester\Computational Science\Temp New\Driver\obj\Debug\Driver.pdb
+C:\Users\katya\Katya\School\IMSA\11th Grade\Second Semester\Computational Science\Temp New\Driver\obj\Debug\Driver.csprojResolveAssemblyReference.cache
+C:\Users\katya\Katya\School\IMSA\11th Grade\Second Semester\Computational Science\Temp New\Driver\obj\Debug\MainWindow.g.cs
+C:\Users\katya\Katya\School\IMSA\11th Grade\Second Semester\Computational Science\Temp New\Driver\obj\Debug\App.g.cs
+C:\Users\katya\Katya\School\IMSA\11th Grade\Second Semester\Computational Science\Temp New\Driver\obj\Debug\Driver_MarkupCompile.cache
+C:\Users\katya\Katya\School\IMSA\11th Grade\Second Semester\Computational Science\Temp New\Driver\obj\Debug\Driver_MarkupCompile.lref
+C:\Users\katya\Katya\School\IMSA\11th Grade\Second Semester\Computational Science\Temp New\Driver\bin\Debug\Driver.exe
+C:\Users\katya\Katya\School\IMSA\11th Grade\Second Semester\Computational Science\Temp New\Driver\bin\Debug\Driver.pdb
+C:\Users\katya\Katya\School\IMSA\11th Grade\Second Semester\Computational Science\Temp New\Driver\bin\Debug\GraphControl.dll
+C:\Users\katya\Katya\School\IMSA\11th Grade\Second Semester\Computational Science\Temp New\Driver\bin\Debug\Thermodynamics.dll
+C:\Users\katya\Katya\School\IMSA\11th Grade\Second Semester\Computational Science\Temp New\Driver\bin\Debug\Utility.dll
+C:\Users\katya\Katya\School\IMSA\11th Grade\Second Semester\Computational Science\Temp New\Driver\bin\Debug\VisualizerControl.dll
+C:\Users\katya\Katya\School\IMSA\11th Grade\Second Semester\Computational Science\Temp New\Driver\bin\Debug\GraphControl.pdb
+C:\Users\katya\Katya\School\IMSA\11th Grade\Second Semester\Computational Science\Temp New\Driver\bin\Debug\Thermodynamics.pdb
+C:\Users\katya\Katya\School\IMSA\11th Grade\Second Semester\Computational Science\Temp New\Driver\bin\Debug\Utility.pdb
+C:\Users\katya\Katya\School\IMSA\11th Grade\Second Semester\Computational Science\Temp New\Driver\bin\Debug\VisualizerControl.pdb
+C:\Users\katya\Katya\School\IMSA\11th Grade\Second Semester\Computational Science\Temp New\Driver\obj\Debug\MainWindow.baml
+C:\Users\katya\Katya\School\IMSA\11th Grade\Second Semester\Computational Science\Temp New\Driver\obj\Debug\Driver.g.resources
+C:\Users\katya\Katya\School\IMSA\11th Grade\Second Semester\Computational Science\Temp New\Driver\obj\Debug\Driver.Properties.Resources.resources
+C:\Users\katya\Katya\School\IMSA\11th Grade\Second Semester\Computational Science\Temp New\Driver\obj\Debug\Driver.csproj.GenerateResource.Cache
+C:\Users\katya\Katya\School\IMSA\11th Grade\Second Semester\Computational Science\Temperature\Driver\bin\Debug\Driver.exe.config
+C:\Users\katya\Katya\School\IMSA\11th Grade\Second Semester\Computational Science\Temperature\Driver\obj\Debug\Driver.exe
+C:\Users\katya\Katya\School\IMSA\11th Grade\Second Semester\Computational Science\Temperature\Driver\obj\Debug\Driver.pdb

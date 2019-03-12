@@ -1,0 +1,24 @@
+C:\Users\devsu\OneDrive\Documents\GitHubRepos\Visualizer2\Visualizer\GraphControl\bin\Debug\GraphControl.dll
+C:\Users\devsu\OneDrive\Documents\GitHubRepos\Visualizer2\Visualizer\GraphControl\bin\Debug\GraphControl.pdb
+C:\Users\devsu\OneDrive\Documents\GitHubRepos\Visualizer2\Visualizer\GraphControl\obj\Debug\GraphControl.csprojResolveAssemblyReference.cache
+C:\Users\devsu\OneDrive\Documents\GitHubRepos\Visualizer2\Visualizer\GraphControl\obj\Debug\Graph.g.cs
+C:\Users\devsu\OneDrive\Documents\GitHubRepos\Visualizer2\Visualizer\GraphControl\obj\Debug\UpdatingText.g.cs
+C:\Users\devsu\OneDrive\Documents\GitHubRepos\Visualizer2\Visualizer\GraphControl\obj\Debug\GraphControl_MarkupCompile.cache
+C:\Users\devsu\OneDrive\Documents\GitHubRepos\Visualizer2\Visualizer\GraphControl\obj\Debug\GraphControl_MarkupCompile.lref
+C:\Users\devsu\OneDrive\Documents\GitHubRepos\Visualizer2\Visualizer\GraphControl\obj\Debug\Graph.baml
+C:\Users\devsu\OneDrive\Documents\GitHubRepos\Visualizer2\Visualizer\GraphControl\obj\Debug\UpdatingText.baml
+C:\Users\devsu\OneDrive\Documents\GitHubRepos\Visualizer2\Visualizer\GraphControl\obj\Debug\GraphControl.g.resources
+C:\Users\devsu\OneDrive\Documents\GitHubRepos\Visualizer2\Visualizer\GraphControl\obj\Debug\GraphControl.dll
+C:\Users\devsu\OneDrive\Documents\GitHubRepos\Visualizer2\Visualizer\GraphControl\obj\Debug\GraphControl.pdb
+C:\Users\katya\Katya\School\IMSA\11th Grade\Second Semester\Computational Science\Temp New\GraphControl\bin\Debug\GraphControl.dll
+C:\Users\katya\Katya\School\IMSA\11th Grade\Second Semester\Computational Science\Temp New\GraphControl\bin\Debug\GraphControl.pdb
+C:\Users\katya\Katya\School\IMSA\11th Grade\Second Semester\Computational Science\Temp New\GraphControl\obj\Debug\GraphControl.csprojResolveAssemblyReference.cache
+C:\Users\katya\Katya\School\IMSA\11th Grade\Second Semester\Computational Science\Temp New\GraphControl\obj\Debug\Graph.g.cs
+C:\Users\katya\Katya\School\IMSA\11th Grade\Second Semester\Computational Science\Temp New\GraphControl\obj\Debug\UpdatingText.g.cs
+C:\Users\katya\Katya\School\IMSA\11th Grade\Second Semester\Computational Science\Temp New\GraphControl\obj\Debug\GraphControl_MarkupCompile.cache
+C:\Users\katya\Katya\School\IMSA\11th Grade\Second Semester\Computational Science\Temp New\GraphControl\obj\Debug\GraphControl_MarkupCompile.lref
+C:\Users\katya\Katya\School\IMSA\11th Grade\Second Semester\Computational Science\Temp New\GraphControl\obj\Debug\Graph.baml
+C:\Users\katya\Katya\School\IMSA\11th Grade\Second Semester\Computational Science\Temp New\GraphControl\obj\Debug\UpdatingText.baml
+C:\Users\katya\Katya\School\IMSA\11th Grade\Second Semester\Computational Science\Temp New\GraphControl\obj\Debug\GraphControl.g.resources
+C:\Users\katya\Katya\School\IMSA\11th Grade\Second Semester\Computational Science\Temp New\GraphControl\obj\Debug\GraphControl.dll
+C:\Users\katya\Katya\School\IMSA\11th Grade\Second Semester\Computational Science\Temp New\GraphControl\obj\Debug\GraphControl.pdb

@@ -1,0 +1,5 @@
+C:\Users\devsu\OneDrive\Documents\GitHubRepos\Visualizer2\Visualizer\FiniteElement\bin\Debug\FiniteElement.dll
+C:\Users\devsu\OneDrive\Documents\GitHubRepos\Visualizer2\Visualizer\FiniteElement\bin\Debug\FiniteElement.pdb
+C:\Users\devsu\OneDrive\Documents\GitHubRepos\Visualizer2\Visualizer\FiniteElement\obj\Debug\FiniteElement.csprojResolveAssemblyReference.cache
+C:\Users\devsu\OneDrive\Documents\GitHubRepos\Visualizer2\Visualizer\FiniteElement\obj\Debug\FiniteElement.dll
+C:\Users\devsu\OneDrive\Documents\GitHubRepos\Visualizer2\Visualizer\FiniteElement\obj\Debug\FiniteElement.pdb

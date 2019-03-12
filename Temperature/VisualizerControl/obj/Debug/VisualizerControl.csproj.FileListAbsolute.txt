@@ -1,0 +1,28 @@
+C:\Users\devsu\OneDrive\Documents\GitHubRepos\Visualizer2\Visualizer\VisualizerControl\bin\Debug\VisualizerControl.dll
+C:\Users\devsu\OneDrive\Documents\GitHubRepos\Visualizer2\Visualizer\VisualizerControl\bin\Debug\VisualizerControl.pdb
+C:\Users\devsu\OneDrive\Documents\GitHubRepos\Visualizer2\Visualizer\VisualizerControl\bin\Debug\GraphControl.dll
+C:\Users\devsu\OneDrive\Documents\GitHubRepos\Visualizer2\Visualizer\VisualizerControl\bin\Debug\GraphControl.pdb
+C:\Users\devsu\OneDrive\Documents\GitHubRepos\Visualizer2\Visualizer\VisualizerControl\obj\Debug\VisualizerControl.csprojResolveAssemblyReference.cache
+C:\Users\devsu\OneDrive\Documents\GitHubRepos\Visualizer2\Visualizer\VisualizerControl\obj\Debug\Visualizer.g.cs
+C:\Users\devsu\OneDrive\Documents\GitHubRepos\Visualizer2\Visualizer\VisualizerControl\obj\Debug\VisualizerControl_MarkupCompile.cache
+C:\Users\devsu\OneDrive\Documents\GitHubRepos\Visualizer2\Visualizer\VisualizerControl\obj\Debug\VisualizerControl_MarkupCompile.lref
+C:\Users\devsu\OneDrive\Documents\GitHubRepos\Visualizer2\Visualizer\VisualizerControl\obj\Debug\Visualizer.baml
+C:\Users\devsu\OneDrive\Documents\GitHubRepos\Visualizer2\Visualizer\VisualizerControl\obj\Debug\VisualizerControl.g.resources
+C:\Users\devsu\OneDrive\Documents\GitHubRepos\Visualizer2\Visualizer\VisualizerControl\obj\Debug\VisualizerControl.Properties.Resources.resources
+C:\Users\devsu\OneDrive\Documents\GitHubRepos\Visualizer2\Visualizer\VisualizerControl\obj\Debug\VisualizerControl.csproj.GenerateResource.Cache
+C:\Users\devsu\OneDrive\Documents\GitHubRepos\Visualizer2\Visualizer\VisualizerControl\obj\Debug\VisualizerControl.dll
+C:\Users\devsu\OneDrive\Documents\GitHubRepos\Visualizer2\Visualizer\VisualizerControl\obj\Debug\VisualizerControl.pdb
+C:\Users\katya\Katya\School\IMSA\11th Grade\Second Semester\Computational Science\Temp New\VisualizerControl\bin\Debug\VisualizerControl.dll
+C:\Users\katya\Katya\School\IMSA\11th Grade\Second Semester\Computational Science\Temp New\VisualizerControl\bin\Debug\VisualizerControl.pdb
+C:\Users\katya\Katya\School\IMSA\11th Grade\Second Semester\Computational Science\Temp New\VisualizerControl\bin\Debug\GraphControl.dll
+C:\Users\katya\Katya\School\IMSA\11th Grade\Second Semester\Computational Science\Temp New\VisualizerControl\bin\Debug\GraphControl.pdb
+C:\Users\katya\Katya\School\IMSA\11th Grade\Second Semester\Computational Science\Temp New\VisualizerControl\obj\Debug\VisualizerControl.csprojResolveAssemblyReference.cache
+C:\Users\katya\Katya\School\IMSA\11th Grade\Second Semester\Computational Science\Temp New\VisualizerControl\obj\Debug\Visualizer.g.cs
+C:\Users\katya\Katya\School\IMSA\11th Grade\Second Semester\Computational Science\Temp New\VisualizerControl\obj\Debug\VisualizerControl_MarkupCompile.cache
+C:\Users\katya\Katya\School\IMSA\11th Grade\Second Semester\Computational Science\Temp New\VisualizerControl\obj\Debug\VisualizerControl_MarkupCompile.lref
+C:\Users\katya\Katya\School\IMSA\11th Grade\Second Semester\Computational Science\Temp New\VisualizerControl\obj\Debug\Visualizer.baml
+C:\Users\katya\Katya\School\IMSA\11th Grade\Second Semester\Computational Science\Temp New\VisualizerControl\obj\Debug\VisualizerControl.g.resources
+C:\Users\katya\Katya\School\IMSA\11th Grade\Second Semester\Computational Science\Temp New\VisualizerControl\obj\Debug\VisualizerControl.Properties.Resources.resources
+C:\Users\katya\Katya\School\IMSA\11th Grade\Second Semester\Computational Science\Temp New\VisualizerControl\obj\Debug\VisualizerControl.csproj.GenerateResource.Cache
+C:\Users\katya\Katya\School\IMSA\11th Grade\Second Semester\Computational Science\Temp New\VisualizerControl\obj\Debug\VisualizerControl.dll
+C:\Users\katya\Katya\School\IMSA\11th Grade\Second Semester\Computational Science\Temp New\VisualizerControl\obj\Debug\VisualizerControl.pdb
